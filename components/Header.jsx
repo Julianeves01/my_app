@@ -11,6 +11,3 @@ export default function Header() {
         </header>
     );
 }
-
-git config --global user.name "Julianeves01"
-git config --global user.email "Julia.s.neves6@aluno.senai.br"
