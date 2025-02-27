@@ -3,7 +3,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 20px;
+    padding: 9px;
 }
 
 .logoContainer {
@@ -14,8 +14,8 @@
 
 .logo {
     border-radius: 50%;
-    width: 120px; /* Ajuste o valor conforme necessário */
-    height: 120px; /* Ajuste o valor conforme necessário */
+    width: 120px; 
+    height: 120px; 
     margin-right: 10px; /* Espaçamento entre a logo e a descrição */
 }
 

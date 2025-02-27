@@ -1,6 +1,8 @@
 import styles from '../styles/Header.module.css';
 
-export default function Header() {
+
+
+export default function Header(title, content) {
     return (
         <header className={styles.header}>
             <div className={styles.logoContainer}>

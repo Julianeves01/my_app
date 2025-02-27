@@ -28,10 +28,12 @@ export default function Home (){
 
                         <h1>Conheça minha turma!</h1>
                         <img src="/imagemdaturma.png" alt="img" className={styles.turma} />
-
                     </div>
                 </div>
             </main>
+        <footer className={styles.footer}>
+        <p>© 2025 Ursinhos Carinhosos. Todos os direitos reservados a Julia Neves.</p>
+        </footer>
         </div>
     );
 }
